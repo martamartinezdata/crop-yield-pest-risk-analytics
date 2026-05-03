@@ -11,7 +11,7 @@ This repository contains a complete data science workflow focused on three analy
 2. Modeling the probability of severe pest outbreaks.
 3. Segmenting drone operations using dimensionality reduction and clustering.
 
-The project also includes a time series forecasting section using the Spanish Industrial Production Index.
+The project also includes a time series forecasting section using the Spanish Industrial Production Index (IPI).
 
 ## Techniques Used
 
