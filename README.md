@@ -3,7 +3,7 @@
 End-to-end data mining and predictive modeling project using Python.  
 The project covers data cleaning, regression models, time series forecasting, PCA and clustering applied to agricultural and drone operation datasets.
 
-## Project Overview
+## Project overview
 
 This repository contains a complete data science workflow focused on three analytical problems:
 
@@ -13,7 +13,7 @@ This repository contains a complete data science workflow focused on three analy
 
 The project also includes a time series forecasting section using the Spanish Industrial Production Index (IPI).
 
-## Techniques Used
+## Techniques used
 
 - Exploratory Data Analysis
 - Data validation and cleaning
@@ -28,7 +28,7 @@ The project also includes a time series forecasting section using the Spanish In
 - PCA
 - K-Means clustering
 
-## Repository Structure
+## Repository structure
 
 ```text
 .
